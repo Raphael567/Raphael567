@@ -45,8 +45,6 @@
     <img src="https://komarev.com/ghpvc/?username=Raphael567&style=flat-square" alt="Profile Views">
 </div>
 
-<br>
-
 <hr>
 
 <h3>Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Mage%20Light%20Skin%20Tone.png" alt="Man Mage Light Skin Tone" width="25" height="25" /></h3>
@@ -70,7 +68,5 @@
     <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
 </div>
-
-<br>
 
 <hr>
