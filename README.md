@@ -1,10 +1,18 @@
-# Hi! I'm Raphael Canuto 🕺
 
-[![Raphael GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=raphael567&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphael567&layout=compact)
+<h1 style="text-align: center;">Hi! I'm Raphael Canuto 🕺</h1>
 
+<br>
+
+<div style="display: flex; justify-content: center; gap: 30px;">
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=raphael567&show_icons=true&theme=dark#gh-dark-mode-only">
+    <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael567&layout=compact">
+</div>
+
+<br>
 <hr>
 
-## About Me 💪
+<h2>About Me 💪</h2>
+
 👋 Software Developer from São Paulo, Brazil!
 
 🚀 Currently studying at ETEC.
@@ -15,7 +23,7 @@
 
 📫 Ready to code together? Feel free to reach out!
 
-<br><div>
+<div>
 <a href="https://instagram.com/raphael.canuto" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:raphaelcanuto4@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "discord.com"><img loading="lazy" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
