@@ -11,8 +11,6 @@
 
 <hr>
 
-<br>
-
 <h3>
     About Me 
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps Light Skin Tone" width="20" height="20"/>
