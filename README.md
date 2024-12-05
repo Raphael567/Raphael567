@@ -23,7 +23,7 @@
 
 <p>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25"/> 
-    Currently studying at ETEC Professor Horácio Augusto da Silveira.
+    Currently studying at ETEC Professor Horácio Augusto da Silveira 2/3.
 </p>
 
 <p>
